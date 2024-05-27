@@ -18,6 +18,11 @@
 <a href="https://www.instagram.com/pabasara_rathnayake/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pabasara rathnayake" height="30" width="40" /></a>
 <a href="https://www.behance.net/pabasarrathnay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pabasara rathnayake" height="30" width="40" /></a>
 <a href="https://dribbble.com/PabasaraRathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pabasara" height="30" width="40" /></a>
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabasararatnayake&show_icons=true&locale=en&layout=compact" alt="pabasararatnayake" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabasararatnayake&" alt="pabasararatnayake" /></p>
+
 <a href="https://medium.com/@pabasararathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pabasararathnayake" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@pabtix9375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pabtix" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Pabasara?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pabasara rathnayake" height="30" width="40" /></a>
