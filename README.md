@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabasararatnayake&label=Profile%20views&color=0e75b6&style=flat" alt="pabasararatnayake" /> </p>
 
-- 💬 Ask me about **ReactJS, Java, Springboot**
-
 - 📫 How to reach me **rmdpabasara@gmail.com**
 
 - ⚡ Fun fact **I'm a coffee lover who can't start the day without a delicious cup, appreciating the flavors and aromas of this beloved drink.**
