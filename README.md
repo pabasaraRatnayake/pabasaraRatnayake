@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, I'm Pabasara Rathnayake</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pabasararatnayake&label=Profile%20views&color=0e75b6&style=flat" alt="pabasararatnayake" /> </p>
 
 - 📫 How to reach me **rmdpabasara@gmail.com**
 
