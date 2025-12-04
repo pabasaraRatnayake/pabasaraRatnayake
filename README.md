@@ -43,31 +43,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </p>
-
----
-
-### 📌 Featured Projects
-- 🔬 **Reinforcement Learning for Colombo Stock Exchange**  
-  A research project adapting FinRL to Sri Lankan market conditions.
-
-- 🗣️ **Sinhala–English Offensive Speech Classifier**  
-  Fine-tuned transformer model hosted on HuggingFace:  
-  👉 https://huggingface.co/GANgstersDev/singlish-hate-offensive-finetuned-model-v2.0.1
-
-- 🧹 **YouTube Comment Scraper (Sinhala + English)**  
-  Built a scalable scraper for dataset creation and NLP research.
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pabasararatnayake&show_icons=true&theme=default" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabasararatnayake&layout=compact" height="180" />
-</p>
-
----
-
-### ✨ Final Touch
-Thank you for visiting my profile! 🚀  
-Feel free to explore my projects, research, and contributions.
-
