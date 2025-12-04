@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Lecturer & Researcher in **Reinforcement Learning for Stock Markets**
-- 💡 Passionate about **AI, Machine Learning, NLP (Sinhala–English code-mixed language)**  
+- 💡 Passionate about **AI, Machine Learning for Finance**  
 - 🧪 Experienced with **model fine-tuning, Axolotl, GPU training, dataset creation**
 - ☕ Fun fact: **I’m a coffee lover—my day officially starts with my first cup!**
 
