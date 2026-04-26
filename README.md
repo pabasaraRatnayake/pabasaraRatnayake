@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pabasara Rathnayake</h1>
-<h3 align="center">Lecturer | Researcher in Reinforcement Learning | Software Engineer</h3>
+<h3 align="center">Researcher in AI | Software Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m **Pabasara Rathnayake**, a Lecturer, Researcher, and Software Engineer passionate about building intelligent systems that learn from data and adapt to dynamic environments.  
-My work centers on **Reinforcement Learning for financial markets**, with a focus on applying RL models to emerging-market conditions such as the Colombo Stock Exchange.
-
-I enjoy working at the intersection of **AI, software engineering, and quantitative finance**, with hands-on experience in:
-
-- 🔬 Reinforcement Learning research & algorithmic trading systems  
-- 📈 Market simulation, agent design, and reward modeling  
-- 🖥️ GPU-based training, hyperparameter tuning, and custom RL pipelines  
-- 🛠️ Engineering with **Java, Python, JavaScript, TypeScript, React, Node.js, Spring Boot, SQL, MySQL, PostgreSQL, MongoDB, TensorFlow, PyTorch, NumPy, Pandas, FastAPI, Git, Docker, and Linux**
+I’m **Pabasara Rathnayake**, a Researcher, and Software Engineer passionate about building intelligent systems that learn from data and adapt to dynamic environments.  
 
 ☕ **Coffee is my fuel and coding partner!**
 
