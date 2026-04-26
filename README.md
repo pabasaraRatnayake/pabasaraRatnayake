@@ -13,9 +13,8 @@ I enjoy working at the intersection of **AI, software engineering, and quantitat
 - 🔬 Reinforcement Learning research & algorithmic trading systems  
 - 📈 Market simulation, agent design, and reward modeling  
 - 🖥️ GPU-based training, hyperparameter tuning, and custom RL pipelines  
-- 🛠️ Engineering with **Java, Python, JavaScript, TypeScript, React, Node.js, Spring Boot, SQL, MySQL, PostgreSQL, MongoDB, TensorFlow, PyTorch, NumPy, Pandas, FastAPI, Git, Docker, and Linux**  
+- 🛠️ Engineering with **Java, Python, JavaScript, TypeScript, React, Node.js, Spring Boot, SQL, MySQL, PostgreSQL, MongoDB, TensorFlow, PyTorch, NumPy, Pandas, FastAPI, Git, Docker, and Linux**
 
-I believe in building practical, research-driven solutions and continuously exploring advanced RL techniques.  
 ☕ **Coffee is my fuel and coding partner!**
 
 ---
@@ -27,7 +26,9 @@ I believe in building practical, research-driven solutions and continuously expl
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="left">
+
 <!-- Programming Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
